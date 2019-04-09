@@ -13,7 +13,7 @@
    
     "background":
     {
-        "page": "background.html"
+        "page": "core/background.html"
     },
 
 
@@ -21,7 +21,7 @@
     {
         "default_icon": "img/icon.png",
         "default_title": "asukabot_chat",
-        "default_popup": "popup.html"
+        "default_popup": "core/popup.html"
     },
 
 "permissions":
@@ -37,7 +37,7 @@
     ],
     "options_ui":
     {
-        "page": "options.html",
+        "page": "core/config.html",
         "chrome_style": true,
         "open_in_tab": true
     }

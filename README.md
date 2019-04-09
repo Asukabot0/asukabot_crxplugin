@@ -1,2 +1,3 @@
 # asukabot_crxplugin
-Offering an easy way to send messages by telegrambot in chats
+Offering an easy way to send messages by telegrambot in chats   
+2019/04/09 15:49:52 It cannot work now......
