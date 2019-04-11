@@ -1,6 +1,6 @@
 # asukabot_crxplugin
 Offering an easy way to send messages by telegrambot in chats   
-##2019/04/09 15:49:52   
+## 2019/04/09 15:49:52   
 It cannot work now......    
-##2019/04/11 14:45:44
+## 2019/04/11 14:45:44   
 Trying to use vue.js instead of jQuery so everything is gone.....
